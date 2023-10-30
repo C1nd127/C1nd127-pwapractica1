@@ -1,0 +1,41 @@
+/* Estilos para el encabezado */
+h1 {
+    background-color: #336699;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos para los cuadros que contienen enlaces */
+.box {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+/* Estilos para los enlaces */
+a {
+    text-decoration: none;
+    color: #0077b6;
+    font-weight: bold;
+}
+
+/* Estilos para los enlaces al pasar el ratón sobre ellos */
+a:hover {
+    color: #ff6b6b;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #336699;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Estilos para la información del pie de página */
+.info {
+    font-size: 14px;
+}
